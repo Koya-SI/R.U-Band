@@ -1,6 +1,6 @@
 public class RBand {
     public String code = "NSRB605";
-    public String name = "Rバンド(信号(R)ﾘﾌﾞ用)";
+    public String name = "Rバンド(信号(R)リブ用)";
     public String spec = "φ60.5";
     public Bolt bolt;
     public int qty;
